@@ -8,3 +8,19 @@
 <br>
 
     Criado com as Tecnologias
+
+- [ReactJS](https://reactjs.org/)
+- [NextJS](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [SASS](https://sass-lang.com/)
+- [Stripe](https://stripe.com/)
+- [FaunaDB](https://fauna.com/)
+- [Prismic CMS](https://prismic.io/)
+- [Next-Auth](https://next-auth.js.org/)
+
+<br>
+  
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](./license) para mais detalhes.
+<br>
+<br>
+See you, baby ❤️
