@@ -4,7 +4,7 @@
 <br>
 <div>Projeto desenvolvido durante o Chapter III do programa de aceleração para desenvolvedores Ignite da Rocketseat.</div>
 <br>
-<div>Aplicação de listagem de postagens com sistema de inscrição, por meio de pagamento mensal através do Stripe.</div>
+<div>Aplicação de listagem de postagens com sistema de assinatura com pagamento mensal através do Stripe.</div>
 <br>
 
     Criado com as Tecnologias
